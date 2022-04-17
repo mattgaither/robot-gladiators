@@ -22,7 +22,6 @@ console.log(enemyNames[2]);
 var fight = function(enemyName) {
   while (playerHealth > 0 && enemyHealth > 0) {
 =======
-
 // fight function
 var fight = function(enemy) {
   console.log(enemy);
